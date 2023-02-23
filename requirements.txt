@@ -5,3 +5,4 @@ telethon
 cryptg
 tgcrypto
 pyrogram==1.4.16
+decouple
